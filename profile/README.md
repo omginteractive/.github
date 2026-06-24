@@ -2,4 +2,6 @@
 
 We create interactive digital experiences. Explore our open source projects below!
 
-[overwrite-branch.md](https://github.com/omginteractive/.github/blob/main/profile/overwrite-branch.md)
+## Table of Contents
+
+1. [Overwriting a branch with another](https://github.com/omginteractive/.github/blob/main/profile/overwrite-branch.md)
